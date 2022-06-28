@@ -1,4 +1,4 @@
-# Get Binance P2P data, Excel and Jupyter are supported 
+# Binance P2P alternative API 
 
 A python Module to scrape Binance P2P data from https://p2p.binance.com/
 
